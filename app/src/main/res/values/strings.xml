@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">CropItAgro</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="continueNow">Continue</string>
+    <string name="save">Save</string>
+    <string name="home">Home</string>
+
+    <string name="email">Email Address</string>
+    <string name="phone">Phone</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="password">Password</string>
+    <string name="address">Address</string>
+    <string name="area">Area</string>
+    <string name="shopName">Shop Name</string>
+
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+
+    <string name="noAccount">Don\'t have an account? Register Now</string>
+    <string name="profile">Profile</string>
+    <string name="messages">Messages</string>
+    <string name="logout">Logout</string>
+    <string name="reply">Reply</string>
+    <string name="sendMessage">Send Message</string>
+    <string name="send">Send</string>
+
+    <string name="products">Products</string>
+    <string name="shops">Shops</string>
+    <string name="addProduct">Add Product</string>
+    <string name="searchByArea">Search By Area</string>
+    <string name="info">Info</string>
+    <string name="pinfo">The term “pulses” is limited to crops harvested solely for dry grain, thereby excluding crops harvested green for food, which are classified as vegetable crops, as well as those crops used mainly for oil extraction and leguminous crops that are used exclusively for sowing purposes.</string>
+    <string name="pferti">Apply 12.5 t/ha of Composted Coir pith + NPK at 40:20:0; Apply enriched FYM 750 kg/ha. The recommended dose of 40 kg N and 20 kg P2O5/ha for rainfed sorghum can be halved if FYM @ 5 t/ ha is applied.</string>
+    <string name="jinfo">Sorghum (Sorghum vulgare Pers.), popularly known as jowar, is the most important food and fodder crop of dryland agriculture. The annual area under it ranges between 17 and 18 million hectares and the annual production between 8 and 10 million tonnes. Sorghum is originated in India and Africa.</string>
+    <string name="jferti">Apply 12.5 t/ha of Composted Coir pith + NPK at 40:20:0; Apply enriched FYM 750 kg/ha. The recommended dose of 40 kg N and 20 kg P2O5/ha for rainfed sorghum can be halved if FYM @ 5 t/ ha is applied</string>
+    <array name="users">
+        <item>Customer</item>
+        <item>Dealer</item>
+        <item>Distributor</item>v
+        <item>Farmer</item>
+        <item>Manufacturer</item>
+        <item>Seller</item>
+    </array>
+
+</resources>
